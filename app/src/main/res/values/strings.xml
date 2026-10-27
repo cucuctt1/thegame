@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tile Solver</string>
+    <string name="accessibility_description">Executes board taps selected by the local tile solver. It never types, scrolls, purchases, or taps outside the calibrated board.</string>
+</resources>

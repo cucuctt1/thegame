@@ -1,0 +1,50 @@
+# Gradle and Kotlin
+.gradle/
+.kotlin/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.navigation/
+captures/
+
+# Native build output
+.cxx/
+.externalNativeBuild/
+
+# Generated Android packages and profiling data
+*.apk
+*.apks
+*.aab
+*.hprof
+
+# Downloaded OpenCV dependency (see scripts/download-opencv.ps1)
+/app/libs/opencv-4.12.0.aar
+
+# Signing keys and local secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor metadata
+.vscode/
+*.swp
+*.swo
+*~
+*.png

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TileSolver" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#4F6BED</item>
+        <item name="android:navigationBarColor">#10131A</item>
+    </style>
+</resources>
